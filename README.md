@@ -21,12 +21,5 @@ Hər anlayışın üstünə toxunanda onun **düsturu, izahı, düşüncə yolu 
 7. Seçmə paylanması və etibar intervalı
 8. Hipotez testləri
 
-## İstifadə
-
-Canlı versiyanı yuxarıdakı linkdən aça bilərsiniz. İstəsəniz, `index.html` faylını yükləyib brauzerdə açın, heç bir quraşdırma lazım deyil.
-
-## Müəllif
-
-**Məmmədov Məhəmməd**
-
+⬇️ **Yüklə:** [Statistika Mind Map (HTML fayl)](https://github.com/magamodin/statistika-mind-map/releases/latest)
 Faydalı oldusa, ulduz ⭐ qoya bilərsiniz.
